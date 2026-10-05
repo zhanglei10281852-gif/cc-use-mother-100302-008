@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "industry-fund"
 version = "0.1.0"
-description = "机器人产业基金里程碑拨款基础领域契约"
+description = "具身智能产业基金项目评审与里程碑拨款后端（事件溯源 + 复式台账）"
 requires-python = ">=3.11"
 
 [tool.setuptools.packages.find]
